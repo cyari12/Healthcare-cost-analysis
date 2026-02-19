@@ -21,7 +21,7 @@ This project performs an end-to-end analysis of healthcare admissions data to id
 - **SQL:** PostgreSQL
 - **Data Analysis:** Jupyter Notebook
 - **Version Control:** Git & GitHub
-- **Visualization:** Tableau (dashboard planned)
+- **Visualization:** Tableau 
 
 ---
 
